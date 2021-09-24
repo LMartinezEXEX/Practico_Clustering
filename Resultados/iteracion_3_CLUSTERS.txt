@@ -1,0 +1,618 @@
+~~~ TF-IDF ~~~
+
+
+Total clusters:50
+Cluster#0 - Total words:46
+Cluster#1 - Total words:113
+Cluster#2 - Total words:78
+Cluster#3 - Total words:88
+Cluster#4 - Total words:96
+Cluster#5 - Total words:94
+Cluster#6 - Total words:55
+Cluster#7 - Total words:83
+Cluster#8 - Total words:75
+Cluster#9 - Total words:91
+Cluster#10 - Total words:151
+Cluster#11 - Total words:73
+Cluster#12 - Total words:80
+Cluster#13 - Total words:42
+Cluster#14 - Total words:139
+Cluster#15 - Total words:157
+Cluster#16 - Total words:102
+Cluster#17 - Total words:63
+Cluster#18 - Total words:51
+Cluster#19 - Total words:72
+Cluster#20 - Total words:73
+Cluster#21 - Total words:49
+Cluster#22 - Total words:52
+Cluster#23 - Total words:78
+Cluster#24 - Total words:49
+Cluster#25 - Total words:91
+Cluster#26 - Total words:56
+Cluster#27 - Total words:92
+Cluster#28 - Total words:119
+Cluster#29 - Total words:80
+Cluster#30 - Total words:86
+Cluster#31 - Total words:55
+Cluster#32 - Total words:77
+Cluster#33 - Total words:38
+Cluster#34 - Total words:84
+Cluster#35 - Total words:85
+Cluster#36 - Total words:22
+Cluster#37 - Total words:65
+Cluster#38 - Total words:46
+Cluster#39 - Total words:70
+Cluster#40 - Total words:97
+Cluster#41 - Total words:85
+Cluster#42 - Total words:30
+Cluster#43 - Total words:44
+Cluster#44 - Total words:95
+Cluster#45 - Total words:60
+Cluster#46 - Total words:98
+Cluster#47 - Total words:55
+Cluster#48 - Total words:86
+Cluster#49 - Total words:23
+
+Top terms and words per cluster:
+
+Cluster 0
+Frequent terms: barcelona, revisión, anterior, entre, una, los, misma, año, quedan, real, 
+Words: mismo, entre, definir, Llobregat, anuncio, cría, escritura, Cristina, entrada, Bonanova, captación, horizonte, seis, atemorizar, diferencier, considerar, Satrústegi, investigación, Blocs, Nin, Nens, reúnir, foto, Frederic, implicar, Justícia, defender, aviso, Mohn, gerente, Collserola, acompañado, escultura, evacuado, lengua, genoma, titulado, sauces, seta, permanente, detonación, artificiero, Mossos, Honorat, sexe, encargar, 
+
+
+Cluster 1
+Frequent terms: barcelona, las, autopistas, los, anual, hoy, actuar, decreto, suyas, tras, 
+Words: Estado, nuevo, estar, Grau, solución, subrayar, Barcelona, entonces, medio, tensión, Sant, mediodía, uso, movimiento, caducidad, Neus, Mireia, vencer, tenso, información, largo, resolver él, motor, atendido, espardenyes, supuesto, puro, mojado, motorización, contestación, Karr, Ambiente, Transportes, Director, público, ermita, regular, departamento, dialogar, recorrer, alguien, culto, cambiar, perder él, cargar él, España, gobernar, Nieves, trascender, Tenerife, turístico, llegada, obedecer, agachar, Algeria, imagen, allá, terminar, peligrosidad, aparcamiento, huerta, aportación, seguido, Roda, ambiental, lamentable, atento, os, II, apuntar, Àngel, fiel, fondo, Extranjeros, Ballell, objeción, mensaje, oro, ruido, GARCÍA, irregular, Mundo, calor, fama, habitual, cielo, quitar, Turó, certificar, vigilancia, urgencia, formalmente, decoración, estación, genética, césped, virus, avión, expectativa, airado, precisamente, tastet, ración, efímero, Gaudí, musulmán, Oriente, reto, limitar, perpetuar él, alcaldía, despacho, Investigaciones, 
+
+
+Cluster 2
+Frequent terms: barcelona, suyas, aprobó, debía, real, de, congelados, iba, generalitat, ayer, 
+Words: compañía, docena, cubrir, ya, desagüe, presentación, podrar, residir, agresivo, aprender, quemar, trato, ROIG, automóvil, selectivo, bianual, PDI, Badalona, comercial, concentración, formación, dinosaurio, intenso, periódicamente, control, subvención, rueda, Busto, rehabilitación, danza, cauce, cerdo, purín, ciudadanía, juego, caja, tuviésemos, Icària, excursión, centenar, Xiquets, completar, podio, sano, Cervera, Optó, interpretación, contorno, nueve, incendio, fabricar, sobrado, normalmente, Ramón, Según, teléfono, albergar, preservar, remodelación, funcionamiento, plantilla, datar, Hostafrancs, muerta, publicar, abarcar, Rigol, Portabella, democrático, desfilar, cao, Nogueras, RIVERO, impresión, Muafaq, mossos, infringir, diputada, 
+
+
+Cluster 3
+Frequent terms: barcelona, marcha, ayer, suspender, que, las, anual, el, debía, autopistas, 
+Words: revisión, concesionario, semana, concesionaria, mejor, área, ni, caso, filtrar, plástico, Coloms, conducir él, pollo, aprovechar, poner, estudiar, proyecto, superar, negar, desacreditado, ancho, recibir, sufrir, contaminación, trazado, integrante, admitir, cocina, Celestino, referencia, Metropolitano, operación, cuadrados, cual, ninguno, bronquial, acto, García, página, Lampedusa, cualquiera, respeto, nadie, rey, actitud, exhibir, motocicleta, atesorar, ciclomotor, abandonado, domingo, metido, PAGÈS, urbanización, esbelto, debilitado, Jordi, abocado, plantear, Psicosocial, recinto, trazar, Montserrat, paquistaní, contradicción, zumr, Montigalà, delincuencia, calzada, embarazado, supremacía, Ricard, villa, bombero, Bola, Panasonic, resurgimiento, realineación, escollera, bici, reir, Lines, Londres, sorpresa, islámico, visita, paralelo, íntimo, 
+
+
+Cluster 4
+Frequent terms: barcelona, los, dar, autopistas, marcha, hoy, debía, quedan, sin, entrar, 
+Words: embargo, sustitución, Autopistas, Nadal, próximo, provocar, Para, evitar, pieza, suelo, reforma, incluso, Olesa, gustarte, redondeado, mundo, Carmen, querer, rendido, conquistar, contar, calificar, echar él, diagnóstico, perder, profesional, cívico, Trinitat, SIMÓN, reforzar, Ignacio, orden, invertir, transporte, Alonso, plataforma, levantar, Pedrosa, Can, desalojo, derrumbamiento, cautelarmente, recabar, conceder, saber él, Roig, adoptar, rango, elección, vista, divulgativo, lesionado, medular, hablado, gastar, jinete, ciudadano, Sabadell, acercar, plano, esquivar, germen, Ilyas, desligar, prejuicio, desinformación, iniciativa, coger, compartir, banalizar, Marche, típico, dormir, vicepresidente, detalle, prescindir, traen, semaforizado, cruz, Juli, Highway, ciudadana, marcar, Montcada, conversación, Secretariat, ejercer, medioambiental, simbólico, limpiar, bombee, comunicar él, reubicación, cuestionar, bulto, recuperar yo, 
+
+
+Cluster 5
+Frequent terms: barcelona, sus, atrás, ayer, el, mismo, dar, año, peajes, subida, 
+Words: tras, actuar, pronto, incomodidad, perjudicado, local, coche, olvidar, Posadas, grupo, amante, hombre, Shakespeare, tomado, futuro, eco, espacio, marisco, asegurado, doquier, realizar, instituto, hallar, utilización, hospital, Arquitectes, Arts, mientras, alternativo, Código, mayoría, dosis, nunca, refugio, feliz, niño, escuchar, salir, asistente, Magda, Federico, confirmar él, junio, marca, oficialmente, excepción, Institut, tradición, puesta, escena, Administración, aprecio, tramo, canalizar, Vecinos, Vila, Vailets, lema, viejo, inmigrante, Servei, Integración, bromear, violencia, imposible, GONZÁLEZ, ruinosa, intermediario, argelino, manifiesto, limpieza, improbable, estudiado, Tossa, desvío, luna, curioso, occidental, procedente, caudal, arriba, estadística, azafata, estibador, multa, judicial, dotado, Shuaibi, notario, torno, presidencia, girar, dorado, debierir, 
+
+
+Cluster 6
+Frequent terms: barcelona, consejo, iba, precios, conocer, del, correspondientes, aprobó, suspender, dar, 
+Words: del, Piqué, alza, caída, asegurar, fuente, alguno, cumplido, nuestro, chantaje, culpa, voto, poner yo, preñado, último, José, alcalde, recientemente, Fabrizio, disputa, bilateral, vigente, socio, creces, concreto, género, arriesgado, Vilassar, Terrassa, Escolar, Codina, artesanal, exclusión, secretario, pacifismo, Montalegre, solidarizar, surgir, retrato, visitante, Esplugues, conservar, superintendente, individualizado, herido, captar, denotar, Santiago, iraní, rabiosamente, registro, estrictamente, renuncia, dicho, big, 
+
+
+Cluster 7
+Frequent terms: barcelona, subir, los, gobierno, correspondientes, titularidad, de, decidió, aprobó, en, 
+Words: al, año, procedimiento, reducción, centro, fracción, forma, emplear, averiar, requisito, cuento, existencia, aparente, estadio, reflexión, pistonado, capacidad, contenedor, comenzar, arquitecto, Montornès, varios, iniciar él, finalizar, resolución, colectivo, desempeñar, Franca, Coberta, sancionador, cierne, XIII, aislado, soler, Joshe, López, duro, chárter, cargo, repetir, unidad, palabra, Negre, considerar él, Sebastià, actuación, sábado, buscar, litoral, Benjamín, desconocido, apestar, empresarial, explotador, Fotogràfic, tanque, feminista, Virginia, Corte, Barca, sótano, Traffic, Engineering, varado, giratorio, trayecto, gestionar, Marià, culminar, alegación, tasado, gráfico, organización, sindical, participación, budista, perturbar, MONTSE, Federación, despejar, colaborar, descontado, preguntar él, 
+
+
+Cluster 8
+Frequent terms: barcelona, nuevo, tienen, se, concesionarias, tras, manera, titularidad, incrementar, ayer, 
+Words: suyo, abril, fase, convertir, Hospital, pasaje, allí, ver él, relacionado, agresividad, posesivo, ante, Otero, reunión, Ifema, declive, sala, vino, arrollar, chocar, BARCELONA, junto, gas, Mitre, desarrollar, Castellbisbal, embotelladoro, miércoles, firma, Trabajo, Revalorització, margen, educación, lugar, Ros, suceder, constar, Juan, Cirera, esfuerzo, comarca, leyenda, PATIÑO, habilitar, pie, Valls, solo, encuentro, campanero, rondar, alcance, ejemplar, Rettangolo, contemporáneo, motif, despegue, cruzar él, ganar, visible, valoración, Feliu, importación, animal, sorprender, traductor, convertido, Por, Despí, arbolado, motorizado, Martorell, agredida, miniaturo, establecer, recordación, 
+
+
+Cluster 9
+Frequent terms: barcelona, atrás, anual, dar, suspender, mismo, de, en, manera, hoy, 
+Words: ir, señalar, pero, distinto, diez, gustar, si, televisor, pensar, Garriga, comida, desvelar, llamado, vía, piso, Coronel, acústico, media, bajar, población, papel, SL, segundo, espectacular, habitación, suspendido, característica, reciclado, kilómetro, temor, castigar, representación, mayo, devorar, concluyes, variado, Dolores, sobresalir, liberal, Juncadella, Correra, factura, impagada, Xavier, BMW, Ruedas, manual, familiar, doctora, Àngels, texto, elogiar, existente, Ripoll, Sampons, posibilitar, escuela, desordenado, vertedero, urbanizado, ilegal, viento, aleta, barco, Ajuda, vigilante, gracia, apreciar, Bulgari, rendición, triunfar, inspector, emigrante, judicialmente, formal, hallazgo, señorío, organizar, japonés, MAC, ave, procesar, incapacitar, Turisme, encanto, elaboradísima, JOAN, CONSTANTÍ, disminución, mobiliario, Superior, 
+
+
+Cluster 10
+Frequent terms: barcelona, decidió, quedan, en, generalitat, anual, hoy, vigor, consejo, suspender, 
+Words: atrás, titularidad, sin, puesto, haber, explicar, abrir, improvisado, propio, grande, adyacente, tabla, madera, Universitària, Bori, Bonesvalls, compra, tú, bajo, apasionado, fatal, timidez, descubrimiento, bello, tarde, cuestión, protagonismo, frente, pena, chaval, patio, emanación, túnel, isla, Major, durante, asesor, Clos, cima, situado, pequeño, trámite, producir, establecido, juicio, exposición, mostrar, sustituir, ampliar, dictamen, Querol, tercer, Cárcer, empeño, temporada, actriz, soportar, escritor, par, coordinadora, disciplina, integral, evolucionar, Recursos, ball, cumplir, obstante, envidiable, REDÓN, SERRA, Circular, Cohesión, afluencia, VILANOVA, coronar, profesor, nervio, ingrediente, animador, americano, oficio, Castellterçol, Campanes, probabilidad, bodega, Món, contratar, curso, capacitación, Derechos, profundizar, artículo, ausencia, exclusiva, rectangular, viandante, submundo, extremeño, masivo, magrebí, plancha, confección, colapsar, descargar, desarrollar él, empuje, aceptado, citar, Handbook, mínimo, Numància, desmantelar, realizado, malestar, jefe, catástrofe, Vivenda, Socials, informal, constitución, coordinación, petición, destacable, dios, pantera, interferir, conocido, especie, Ir, ibera, enmarcar, delimitar, Prat, piloto, helicóptero, planeador, exhaustivo, reflejo, globo, puerto, legendario, caviar, referir, increíble, Jardins, Libro, verano, Ignasi, Palau, rato, estricto, 
+
+
+Cluster 11
+Frequent terms: barcelona, ministros, por, aprobó, nuevo, estado, empresas, al, decreto, entre, 
+Words: de, beneficiar, pendiente, máximo, verdad, opinar, Ferial, curar él, ofrecer, peatón, Molins, creado, solar, planear, sexto, Penal, millonario, Vilallonga, inteligente, moscovita, fabricante, divulgar, Nápoles, Garrotxa, Pau, sardina, modernidad, normal, comentario, ayudar, grado, ubicado, Quintí, xxi, Noguera, conflicto, obligatorio, movilizar, apartado, as, medir, relieve, recurso, daño, plato, censo, acostumbrar, anular, trasnferir, planificar, ámbito, hiedra, atraer, templo, castellano, Museu, VII, Besòs, sencillo, electrocardiograma, ultraligero, calificación, Principado, Center, nostalgia, raigambre, dócil, renunciar, práctica, postre, Árabe, ambicioso, hagan, 
+
+
+Cluster 12
+Frequent terms: barcelona, en, mismo, los, vigor, iba, aprobó, tras, ministros, suspender, 
+Words: cada, consenso, zona, metro, afectado, lluvia, fusibl, alcantarilla, objetivo, diversidad, sueño, respecto, pasar, examinar, recomendable, retirar, abstención, doble, propuesta, autobús, residuo, avanzar, MONTORNÈS, finca, Feijoo, sanción, policial, Ormaolea, ex, tornar, impedir, pasajero, seguramente, envejecimiento, hablar, Ortín, atropellado, serenidad, válido, Vilafranca, Campaners, alquilar, Tunis, cerrado, degradado, inmersión, acreditativo, fotoperiodista, sitio, diferente, pensár, referenciar, época, necesario, compañero, Tica, labor, clausura, Delàs, per, aglutinador, interrogar, inicialmente, definitivo, Girona, crecida, molesto, cabo, oxigenación, descanso, concurrido, colector, proporcional, demonstration, monotonía, reducido, reivindicación, base, exteriorizar, preciso, 
+
+
+Cluster 13
+Frequent terms: barcelona, al, misma, los, año, después, consejo, portavoz, titularidad, manera, 
+Words: Gobierno, no, filtrar él, propietario, coincidir, suministro, vida, revista, confesar, leer, tímido, evidencia, mesa, CiU, suscitar, Joan, ensanche, camino, caballo, tierno, Castellvell, existir, Adriano, tarragona, euforia, escaparate, gama, generación, elemento, muestra, frenar, trastero, origen, antimilitarismo, llamada, pared, nave, arrastrar, ficticio, Iberia, Kanfash, escoger, 
+
+
+Cluster 14
+Frequent terms: barcelona, peajes, decidió, decreto, la, no, un, ipc, tras, 2000, 
+Words: Ministros, preferir, preocupación, ridículo, partir, dirección, general, clientela, depósito, llenar, afectar, parcialmente, completo, aunque, dentro, ciclo, táctil, mantener, señora, pasión, Bárbara, raíz, soledad, edad, Comerç, Vanguardia, tiempo, públicamente, restaurante, rápido, Cotxeres, asfalto, superior, alcanzar, tarjeta, móvil, especial, Bellvitge, estrategia, urbano, Tony, pese, abierto, autovía, quinto, iniciar, agrario, basura, policía, participante, favor, simpatía, vivir, guerra, humanista, revelar, agreír, Manfred, Vázquez, transportar, Sergei, cinturón, provincia, febrero, Jardines, árbol, ocasión, dirigido, clínico, óptica, medieval, vulnerabilidad, mar, tanqueta, menudo, hortelano, entidad, vecinal, vergüenza, cultivar, tierra, obligación, Bogatell, limpiir, cara, lento, sis, pezqueñín, antigüedad, asimilación, importancia, documentar, impulsora, calar, impregnar, descoordinación, perjudicar, Vella, oleada, entero, huir, Desde, mayorista, desbordar, destajo, integrar, criterio, Manual, correr, asistencia, todavían, Isidro, Xarles, Bordeta, ejecutado, TOSSA, escultórico, unir, perfeccionar, milagro, ducha, sinceramente, acordar, influencia, natural, complementario, depredador, propiciado, afectación, andorrano, porción, inhumano, alcachofa, encabezar, explosionar, letra, Servicios, licenciado, Pessarrodona, 
+
+
+Cluster 15
+Frequent terms: barcelona, peajes, las, de, quedan, apruebe, dar, hoy, decidió, congelados, 
+Words: él, Josep, sólo, dedo, económico, compensar, prever, ley, intensidad, cuadrado, escoba, jamón, puerta, semáforo, subterráneo, ciento, respectivamente, aeropuerto, climatología, arte, buen, tal, notar, Carlos, nota, atracción, hoja, mi, seductoro, Bella, pleno, Pero, directamente, dos, hacer él, Botafumeiro, demasiado, carta, MARGARITA, peatonal, bien, PAGANI, Monasterio, pelo, minoría, dato, habitante, Rei, millón, resolver, punto, otoño, hotel, General, superficie, casi, nombre, emblemático, alto, categoría, cuatro, asma, Vía, Van, disolución, golf, moción, crónica, malo, recuento, sociedad, internado, aficionar, lectura, contrario, limbo, permanecer, Lolita, Sheremetievo, convenio, Seskutov, rusa, crisis, preceder, maravilloso, usted, Guttmann, guía, crear, embarcar, puntualizar, levantado, granja, ALFONS, ocupar, fomentar, consciente, mueble, Consistorio, humedad, ocio, acabado, amb, infantil, estilo, Trobada, Catalunya, toque, localidad, esperanzador, lejía, Negro, años, chabola, miseria, Alta, Inglés, transcurrir, polvorín, ingeniero, viario, desangelada, Presidència, justicia, Cortes, Clausell, excavación, griego, surtidor, virguería, naturaleza, Batalla, vueltecita, quimero, Gramenet, oportunidad, neumática, identidad, renovar, conductor, mecánico, comprobación, Andorra, honda, añoranza, avergonzar, insistir, quebrar, sea, mezquita, financiar él, Alt, pertinente, desperfecto, comprensión, dar yo, gravemente, 
+
+
+Cluster 16
+Frequent terms: barcelona, los, hoy, en, suspender, que, la, de, sus, entrar, 
+Words: anual, congelar, anunciado, sistema, cuenta, otro, definición, plaza, litro, oscuro, agua, conexión, hacer, resguardar él, destinado, abonado, Climent, plagio, mediante, moderno, durar, televisión, preocupante, enorme, PP, plan, registrar, cifra, ditribuir, cortado, marcado, presidente, difusa, arquitectura, planta, cortar, sindicato, consulta, marqués, aparición, estraperlo, idolatrar, emperador, amenazar, Press, Aprilia, innovadoro, versión, Internacional, tomar, Tibidabo, continuación, habéis, Camp, mercader, capital, altura, atropello, carril, Vilanova, torre, aixecador, corazón, vacío, repicar, empleo, patera, difícilmente, Ocupación, mecanismo, directora, subyacer, visión, Pensament, pesimista, color, LÓPEZ, Franco, valorado, Tusgsal, Nord, aprobado, Horta, mármol, emplear él, González, Piulats, ribera, honor, vaho, cortar él, demá, guatlla, lavabo, plasmar, maletero, Empordà, marido, periódico, bueno, relevo, matrícula, 
+
+
+Cluster 17
+Frequent terms: barcelona, congelan, vigor, correspondientes, gobierno, 2000, anual, sus, tras, precios, 
+Words: Consejo, precio, principios, trabajar, embustero, alarmista, vitalidad, incluir, rozar, trascendencia, práctico, municipio, Corbacho, presupuesto, Blair, finales, biológico, Eduard, cierre, madre, Grebe, sembrar, flexible, monopolio, analizar, gestión, Sedano, pertenecer, hagiográfico, espécimen, mol, comprensivo, protagonista, Ángel, calvario, Estratègic, conferencia, rèserve, Manolo, oculto, argot, Adda, dispuesto, secuencia, semafórico, Elíes, satisfactorio, Medi, Camí, colisión, extraer, celeridad, acotado, Historia, panel, completar él, World, atreveír, interlocutor, incógnita, izquierda, Residència, Convergència, 
+
+
+Cluster 18
+Frequent terms: barcelona, los, nuevo, concesionarias, 2000, después, real, hasta, al, consejo, 
+Words: correspondiente, tarifa, cantidad, reclamar, primero, seguir, soterramiento, Rodríguez, TRM, perjuicio, Armand, compensación, efectivamente, Montalbán, cancelar, reglamento, prohibir, gracias, terreno, imitar él, Salomó, convertir él, fumar, xxvii, Blanques, orientación, Sin, antiarmas, país, Benetton, Laso, concentrar, peligro, primario, Dionisos, estudiante, trasero, récord, cristal, espíritu, cesar, original, ou, ferrat, NADAL, fundado, imprevisto, pervivir, horas, estacionado, debajo, 
+
+
+Cluster 19
+Frequent terms: barcelona, la, generalitat, autopistas, decidió, hoy, marcha, anual, el, debía, 
+Words: decreto, PSC, profundo, problema, cascada, cerrar, tormenta, Garraf, cuarenta, sensibilidad, usar él, creer, colegio, criatura, preguntar, pesadilla, geografía, dificultar, crítico, valer, vigilar, traidoro, distrito, exclusivamente, TMB, De, Balaguer, Vallès, Inspección, Mataró, comportar, representatividad, fin, igual, jesuita, Haneke, moscú, extensión, delantera, doctor, Departament, sancionar, deteriorada, cuidadoso, tiburón, climatológico, Que, ocupación, agrupación, quatre, descenso, repartir, multitudinario, constituir, insumisión, esfera, tapón, alarmar, Ca, internacionalmente, biblia, estudio, instrumento, autonómico, atender, sorprendente, pilotar, azorado, recibido, disciplinadamente, protagonizado, Sudais, 
+
+
+Cluster 20
+Frequent terms: barcelona, entrar, que, generalitat, dar, en, las, quedan, consejo, por, 
+Words: materia, único, administración, permitir, causar, sentir, tejado, venta, urgente, gotera, gente, literatura, Cambra, Sants, continuo, Doctor, modificar, Plan, mirador, falda, congreso, deportivo, técnico, diario, acumular, insufrible, entender, exhibición, cabreado, turismo, Costa, turista, Giné, cilindrada, rodar, integrado, Del, emoción, río, servir, amenaza, Civis, reducir él, inyección, ordenación, celebración, entrenar, titánico, autóctono, paz, Defensa, treinta, dispendio, encima, detección, estancia, encuesta, propiedad, nefasto, negociación, laboratorio, frondoso, aviación, Forné, correspondencia, Tomàs, oferta, tastets, anchoa, Diputación, intermitente, campaña, multar, 
+
+
+Cluster 21
+Frequent terms: barcelona, gobierno, los, mismo, peajes, real, vigor, generalitat, se, aprobó, 
+Words: ahora, femenino, vocación, literario, bebida, alma, turno, Dickens, solamente, moto, respetar, enfermedad, un, prevención, riesgo, diagnosticar, reconocer, Guardia, volver, manifestar él, anoche, Creu, contra, pasado, Jaume, oficina, prensa, prohíbir, exigir, palmera, exterior, excesivamente, secreto, detener, médico, parecer, adecuado, documento, Manning, articular, posteriormente, coordinador, proseguir, Japón, Segura, Pokémon, inauguración, bang, Joaquima, 
+
+
+Cluster 22
+Frequent terms: barcelona, tarifas, decreto, equivalente, vigor, subida, autopistas, al, los, aplica, 
+Words: hoy, interés, fuerte, amplio, así, yo, concluir, acabar, fruta, pedir, barato, menor, TRINCHERÍA, adoptado, Transporte, parque, carretera, Maresme, místico, Mercedes, feria, embajada, expansión, Sàez, Atlantis, presión, gigante, Serrano, facilitar, fluvial, arrollar él, Martí, martes, Sol, ordenar, positivo, desaparecer, ecologismo, cincuenta, badalonés, María, valle, sensación, Pyrenees, científico, genètica, árido, chopo, minero, jamás, Rey, parar, 
+
+
+Cluster 23
+Frequent terms: barcelona, aprobó, ministros, que, conocer, marcha, suyas, titularidad, atrás, autopistas, 
+Words: el, vigor, aprobar, cebar, especialmente, fregona, bastar, formar, dirigente, justificar, Europa, Dalt, incluido, continúar, extender él, Associats, asunto, originar, Pallejà, constante, Maribel, repartar, Pilar, Arnalot, Arrabassada, Salón, Parques, alumno, Consol, libre, matriculado, Barceloneta, estado, terços, encoger, Capgrossos, Olimpiada, experto, Cáritas, asociación, Mútua, estable, consideración, Pla, generador, ejército, significar, racismo, testamento, coser, cálculo, semafórica, Hisenda, Ambient, envergadura, mixto, simulacro, personal, Policía, Cruz, periodista, religión, esforzar él, cámara, inválido, tecnología, complicado, ceremonia, Nozomi, Roser, bioinvestigación, cordón, retirada, orgulloso, certificado, corresponder, diligencia, Psicología, 
+
+
+Cluster 24
+Frequent terms: mismo, no, barcelona, los, conocer, vigor, debía, la, ayer, aprobó, 
+Words: deber, real, aguacero, eléctrico, conducir, pérdida, trágico, interesar, informe, advertir, culpable, seguro, rechazar, programa, Infraestructuras, apuntado, antiguo, común, presencia, vulnerar, Rubí, inmenso, Antonia, enfrentar, Gimeno, didáctico, Cultura, sobrevivir, condición, destinar, funcionar, castell, convocado, Ponedors, utilizándolo, atemporalidad, derribo, infravivienda, Lázaro, máquina, comprador, drogadicción, tienda, Consorcio, insecto, indicado, dimitir, lista, emancipación, 
+
+
+Cluster 25
+Frequent terms: barcelona, titularidad, un, suyas, iba, se, congelan, por, precios, ayer, 
+Words: decidir, competencia, poder, indicar, Madrid, serio, colocar, malhumor, añadir, distancia, concepto, factor, objeto, sentido, modificación, creación, ambos, Cuervo, voluntad, identificar, celebrado, Pompidou, Martorelles, familia, actividad, desorden, votar, Pombo, descarga, infinito, valor, dinero, repente, escenario, mujer, Aranguren, idiota, suceso, atribuir, deuda, síntoma, Francesc, Pané, UE, Lleida, cuota, casual, era, Anesdor, repaso, proceso, federación, española, mimar, vial, peligroso, ocurrir, mira, replicar, conscient, País, reestructurar, Rialto, cera, acoger, Decathlon, Navarro, busca, horario, vuelta, intercentro, Mar, Tokio, juguete, sobrepasar, disfrute, Salzareda, sanguijuela, patrimonial, bosque, abiertamente, Marc, aprendido, expresión, embargar, apetecible, requerido, nombramiento, gesto, deuxième, Normal, 
+
+
+Cluster 26
+Frequent terms: barcelona, suyas, consejo, los, congelan, precios, en, mismo, después, hacia, 
+Words: paralizar, posible, diverso, metropolitano, paseo, baix, Cerdà, inherente, necesidad, utilizar, complejo, realidad, cómodo, señal, velocidad, cebra, histórico, apertura, orgánico, poblado, agradable, industrial, sede, Comisiones, desacuerdo, romper, dominico, retroceder, Fondevila, soviético, Derbi, Scarabeo, bonito, quién, parlat, blindado, intentar, venir, bolsillo, Escobar, censado, Consorci, andar, indicio, voluntario, Tarín, Terribas, adecuadamente, conciudadano, Trabal, trabajadísima, adaptado, propuesto, financiar, Entre, comunicar, 
+
+
+Cluster 27
+Frequent terms: barcelona, congelados, la, ipc, hoy, subir, hasta, manera, decreto, dar, 
+Words: su, por, automático, delegado, Manuel, política, demostrado, mayor, saber, dama, Cataluña, certero, ejemplo, pescado, descubrir, barrio, circular, ERC, restringido, vecindario, implantar, consejo, estrella, destacar, aspecto, noche, implantación, celebrar, junta, descartar, Anton, teatro, molestar, hijo, Robert, culo, patronato, Rusia, inversor, jardines, jardín, coautora, aconsejable, Eugeni, red, cultura, Cuando, tu, comentar, limpio, barraca, disfrutar, ambiente, escalofriante, Mediona, Aragón, Font, elaborar, Alemania, plantear él, Si, metálico, molestia, Mohamed, Calderón, Prontomoda, Capacity, Diagonal, recordatorio, Entitat, descubierto, Magòria, Ejército, residencia, paraje, inconformidad, vegetación, rana, clave, hormigón, subsanar, tirar él, crucero, inestable, librería, Abderraman, tampoco, Audi, Viladomat, sien, pierna, cebro, 
+
+
+Cluster 28
+Frequent terms: barcelona, de, autopistas, congelados, sus, ministros, entrar, conocer, tras, 2000, 
+Words: que, IPC, mes, usuario, expresar, goteo, interior, viernes, todavía, modo, desnudar, sentimental, centrar, realización, alarmante, finalmente, claro, sacar, barra, obvio, Noble, tratar, discurrir, Bonaplata, Carme, Medio, colaboración, urbanístico, promovido, dúplex, geográfico, recuperar, peregrino, pensión, incumplimiento, movilización, sentar él, convocatoria, pacto, ironía, volumen, enviar, relación, justo, convivencia, regresar, aéreo, medias, vicejefe, edil, contestar, repercusión, imponer, Asociación, Sector, padecer, minoritario, Tarragona, peripecia, verter, europeo, tirar, espalda, pez, Nissan, industria, campeonato, Mina, mutuo, etnocéntrico, Refugiats, piedra, traer, relatar, numerado, atrevido, wave, quejar, Ciutat, firmar, Buzid, apenas, negocio, prenda, figurar, adornar, intervalo, discutir, interurbano, Urbanismo, Carta, subcomisión, autoridad, clase, humano, Port, proveniente, conquista, Coloma, Endesa, instalar, ecológico, comprobado, logístico, continuamente, Mediterráneo, basar, delegación, cabra, bar, MATAS, financiación, activar, biblioteca, nombrar, nacional, terminal, rozándol, código, 
+
+
+Cluster 29
+Frequent terms: barcelona, generalitat, suspender, congelados, dar, los, quedan, peajes, autopistas, estado, 
+Words: como, catalán, todo, depositado, falta, Zona, situación, específico, algo, servicio, prestigioso, gobierno, responsable, entramado, conseguir, elevado, vehículo, importante, rascacielos, material, compostaje, manifestante, jueves, grave, enriquecer, merecido, presidido, Salisachs, Paquita, estupor, sindicalista, Daurada, resultado, dictado, llamar, scooter, medicina, infractor, sumar, Bac, interesado, Bordegassos, Colla, Joves, participar, Caixa, defender él, separar, órden, cuatrocientos, precinto, sesenta, detectar, foro, Universitat, presentado, situar, ele, Parcerisas, instalado, inmobiliaria, detonante, conseller, depender, romano, Ametllers, conjunto, SEM, autocar, tranquilo, volcar, Doraemon, dibujo, animado, Montjuïc, Grecia, huelga, ajustado, rapsodia, CSIC, 
+
+
+Cluster 30
+Frequent terms: barcelona, debía, subida, congelados, sus, decidió, suspender, atrás, ministros, consejo, 
+Words: barcelono, tipo, ser, obligado, central, sector, marco, velar, catarara, alrededor, previsión, calidad, manifestar, porque, particular, mayoritariamente, sobre, realmente, historia, etimológico, enfermo, perro, cuanto, pánico, freno, ciudad, mortalidad, vivo, Bosco, acordado, antes, hundir, casa, Ikea, apoyar, nosostro, posguerra, desmán, robar, ropa, empresariado, viajar, separado, patrón, Joaquín, pionero, grúas, circulatorio, textil, enero, campana, Núria, interculturalidad, estereotipo, Psicopatològica, discurso, chino, Trafalgar, comprar, Meridiana, morir, San, equipamiento, Fayos, actor, repleto, ocupante, Hirata, Brava, Arqueològic, experimentar, mosquito, ligado, revisar, Trade, marinero, Marta, enterar, puñado, duda, tópico, chocolate, abandonar, temblándome, Simone, realizar él, 
+
+
+Cluster 31
+Frequent terms: barcelona, estado, precios, al, tarifas, año, consejo, los, entre, nuevo, 
+Words: quedar, después, pasillo, decir, ver, línea, Viladecans, retrasar, veces, luego, motivo, comer, paso, promedio, además, Torres, cartón, cosa, edificio, norte, Fenosa, fuera, adolescencia, Navalcarnero, Eduardo, mediocre, recurrir, Antoñanzas, granjero, PESSAFERRER, aventura, claramente, fábrica, enxaneta, efecto, Vasco, intercultural, Gispert, extraño, Durante, minusvalía, atropellar, redacción, confirmar, escollo, unanimidad, pata, decorado, faceta, ocupado, precisión, oir, tomar él, correctamente, durísimo, 
+
+
+Cluster 32
+Frequent terms: barcelona, ayer, las, congelados, decidió, los, anual, de, tras, empresas, 
+Words: actual, portavoz, sino, medida, cliente, verdura, nada, responder, escritora, pregunta, ficción, institución, bajada, español, solitario, merecer, tardar, donde, oficial, tráfico, razonable, negociar, ayuntamiento, ferrocarril, debido, hundimiento, normativa, equipo, popular, político, Plaza, Alfonso, enseñar, escondido, acuerdo, cita, independiente, tono, recordarles, eliminar, fallecer, hilaridad, siglo, desmontado, set, Granollers, Miquel, urbanismo, buena, archivo, índice, acción, DANIEL, Martínez, Pere, ponderar, viaducto, escolta, arqueológico, externo, Park, protección, provocado, dotar, itinerario, envíar, Cubí, rellena, caserísimo, citación, Radi, palestino, lateral, localizar, Isern, autorizado, aclarar, 
+
+
+Cluster 33
+Frequent terms: barcelona, se, tras, ministros, que, real, un, año, incrementar, gobierno, 
+Words: autopista, mantenimiento, razón, parada, tanto, poco, sién, marchar, Roux, prácticamente, SA, leído, milk, memoria, Janés, apoyo, MITT, electoralista, innovador, bellísimo, siempre, posibilidad, confianza, fijar, acera, diferencia, Geltrú, reunir, millar, Ivars, alegre, comité, crispado, convencido, controlador, Ferrusola, Varema, Buenaventura, 
+
+
+Cluster 34
+Frequent terms: barcelona, quedan, peajes, la, marcha, congelados, autopistas, anual, sus, aprobó, 
+Words: entrar, tener, imitar, mañana, llegar, mal, criticar, día, aún, Fontestà, cinco, rascar, vagón, ayuda, sonoro, calvo, alejar, guión, etapa, aparte, probablemente, REVERTER, montar, Vergòs, pilón, simple, construir él, necesitar, esperar, París, avenida, BADALONA, protesta, decoro, campo, suponer, Luis, Phillida, rápidamente, música, Francia, Yourcenar, casco, Motorshow, plantar, recuerdo, entendido, distinción, caos, excusa, regulación, siete, folre, entrenador, Tocs, campanario, comunicación, confundir, Woolf, error, solicitar, proceder, ANNA, MARIA, gitano, suerte, administrativo, contacto, prioridad, rescatar, Drac, Slump, gana, Madrona, Ibèria, ecosistema, prueba, Air, nación, resignación, Saudí, coránico, saudí, loco, 
+
+
+Cluster 35
+Frequent terms: barcelona, subida, peajes, que, ayer, atrás, los, generalitat, en, vigor, 
+Words: conocer, adelantar, este, numeroso, penetrar, según, afirmar, descender, Begues, subsanado, utilizar él, botón, serie, Arturo, blanco, amor, peso, cultural, tendencia, regla, resultar, encontrar, EDUARD, deporte, NICOLÁS, construcción, sustancial, tres, capítulo, Rogers, fachada, Tractament, carácter, Urbana, referéndum, crudo, década, capaz, cabecera, salvar, competente, preocupar, editado, tratar él, puig, depurar, Santa, fuerza, cruzar, intento, Xics, Mostra, precario, compromiso, Maremàgnum, contenido, presagio, vender, cuánto, húmedo, furgoneta, polígono, hacinado, comprometer, ocho, variar, disco, lustre, Sauret, Aunós, optimista, Torrebonica, evacuación, óptimo, gira, éxito, escolanet, metal, determinante, queso, Hacienda, dependencia, ideológico, pesidencia, marrón, 
+
+
+Cluster 36
+Frequent terms: barcelona, derecho, correspondientes, hasta, estado, después, quedan, mes, las, revisión, 
+Words: punta, cadena, Hesperia, suite, circunstancia, presentar, dimisión, edición, electoral, sol, Magrí, Laura, Porta, Rubió, arca, ANTONIO, FRÍAS, ensanchar, Rogent, citado, periodo, sesión, 
+
+
+Cluster 37
+Frequent terms: barcelona, real, precios, un, correspondientes, derecho, por, nuevo, mismo, cantidad, 
+Words: empresa, Boqueria, techo, parte, aparecer, relato, recién, nacer, crecer, poner él, degradación, entorno, proponer, sur, Via, regulado, extender, municipal, autor, inaugurar, bloque, laboral, contundencia, manifestación, aspiración, figura, garantizar, Paeria, alumbrar, principal, Albert, anunciar, cuidar él, presidir, Sanitaris, presidenta, determinar, aire, educativo, caseta, víctima, cinc, fabricación, título, fotografía, democracia, cansado, dedicar, alusión, excepcional, someter, lamentar, puntuación, Marina, Constitució, Serveis, Duran, pretensión, conservada, bautizar, reabrir, anualmente, esposa, palpitándome, defienda, 
+
+
+Cluster 38
+Frequent terms: barcelona, incrementar, actuar, tarifas, cada, inflación, abril, hacia, derecho, misma, 
+Words: peaje, congelado, Generalitat, marcha, suspender, diseñar, cerca, continuar, energía, lado, lunes, seguridad, licencia, envejecer, Soler, pantalón, fila, Antoni, Siurana, solidaridad, modelo, Harley, Davidson, costumbre, Miguel, impar, calcular, total, expositor, arbusto, Exposición, Crist, fíar, playa, Nova, mortal, novedad, negro, enfrascado, escéptico, opinión, brazo, habitáculo, consecuencia, rambla, Al, 
+
+
+Cluster 39
+Frequent terms: barcelona, del, peajes, congelan, real, empresas, los, ministros, congelados, consejo, 
+Words: aplicar, ministro, también, para, aun, saltar, dependiente, Gavà, mando, mirar, profesora, gafa, momento, transformar, temer, DE, barcelona, concejal, circulación, acceder, Augusta, acceso, precisar, extremo, disponer, vidrio, grieta, higiene, enormemente, infierno, casar, vacación, Reixach, disparar, saga, ayudante, fiesta, huerto, paralelamente, impacto, deje, castellera, Cantabria, Confraria, agrícola, Arxiu, Pati, mili, Piferrer, aguja, Metropolitana, resaltar, fútbol, disciplinario, carrera, Maragall, Consell, Executiu, Zeus, Semele, emergencia, verificar, divertir, centímetro, Borja, Agua, torturado, quizás, lucha, sospechoso, 
+
+
+Cluster 40
+Frequent terms: barcelona, vigor, el, anual, atrás, suyas, subir, sus, decidió, no, 
+Words: incrementar, anterior, hacia, caer, gota, producto, instalación, cortocircuito, paraguas, causa, otra, mucho, persona, recorrido, trabajo, qué, caigan, clima, Institución, presente, órgano, creciente, premisa, aplaudido, exquisito, pues, ahí, echar, vecino, dirigir, MONTSERRAT, tocar, prosperar, eliminación, proximidad, tímidamente, Entidad, gabinete, aficionado, miembro, Pryca, individual, empleado, tromba, Pública, expediente, Obreras, permiso, postura, conjetura, vestigio, abuela, cepillir, parado, Lamadrid, Alorda, asistir, Civil, informar, extranjero, contradecir, certamen, conocimiento, colección, patinazo, santa, adecuación, rasguño, Minyons, Vendrell, aportar, fundación, vertiente, Fadel, Centre, alerta, decibelio, Salut, migratorio, cargar, feroz, Circulación, Alcober, desocupación, Garrido, Escolania, conectar, oriental, electrónico, museo, visitar, dedicado, contribuir, ostensiblemente, Projects, Vilamacolum, investigador, 
+
+
+Cluster 41
+Frequent terms: barcelona, precios, congelan, hasta, tienen, al, procedimiento, iba, subir, atrás, 
+Words: ese, diputado, desconcierto, seguidismo, más, controlado, desde, mejora, mil, belleza, lograr, generar, potenciar, motorista, Torrelles, kilo, frontera, ruina, obligar, Guifré, moratoria, Residus, contener, griterío, Moscú, alarma, pago, crédito, enfermería, Bayés, Ramírez, patología, Ball, pueblo, iglesia, margarita, residual, enemigo, norma, aquí, arreglar, Jubilado, Maria, función, bañista, barcelonés, MarBella, temperatura, vuit, deformar, escolar, mirada, competición, desarrollo, Libertades, Movilidad, escaso, atasco, veinticinco, Mientras, BBV, Coll, barrera, Casas, arrancar, cuerpo, cese, columna, Aventura, regar, Boi, Fomento, cruce, aplicar él, bancario, segunda, embargarno, plazo, imán, orientativo, ubicación, bastante, amarillo, reincident, señalización, 
+
+
+Cluster 42
+Frequent terms: barcelona, 95, decreto, entrar, revisión, al, correspondientes, mes, procedimiento, nuevo, 
+Words: vez, minuto, En, cuando, empezar, actualmente, renovación, socialista, ópera, desear, maldad, padre, frail, asesorar, Fondos, Reus, olimpismo, laberinto, ir él, mas, Castelldefels, extra, aplicación, Ernest, Kii, bacteria, gratinado, Casa, legislatura, frontal, 
+
+
+Cluster 43
+Frequent terms: barcelona, cada, 95, apruebe, la, los, una, alza, cantidad, autopistas, 
+Words: equivalente, parámetro, ronda, mitad, restablecido, faltar, película, aceptar, pasear, anteayer, cosechar, decisión, envase, Collblanc, acudir, formado, niñez, pausa, observar, rico, república, Empresas, Combinación, baile, aventurero, ambulancia, Virtudes, transmitir, encargado, árabe, incorporación, Batlló, Roja, ojo, Vida, Amigos, AVE, bobies, menoscabo, concretar, paquete, activamente, fijar yo, tan, 
+
+
+Cluster 44
+Frequent terms: barcelona, tras, conocer, el, que, decreto, mismo, consejo, congelados, dar, 
+Words: subir, interpretar, económicamente, gran, recordar, cuyo, principio, menos, escribir, aquel, arbitrar, Andreu, PIJUAN, oposición, recoger, diseñado, británico, homogéneo, terraza, ubicar, pretender, desalojar, sostener, agente, armado, asombroso, prestigio, carecer, Beaulieu, frívolo, gobernante, recuperación, alegría, Departamento, Aéreo, club, diariamente, Parkinson, especializado, férreo, firme, ona, experiencia, caber, apuesta, atención, atravesar, canalización, depuradora, GELTRÚ, piel, llegado, Borges, gueto, trescientos, legalmente, Immigrants, organizado, Mujeres, MASOT, acogida, congestión, avanzado, universal, dictadura, prestar, desaparición, cien, protestar, Parlament, consorcio, Educació, quisiser, electrodoméstico, informático, monje, despierto, Oh, grecs, través, premiado, variedad, comarcal, avioneta, encabezado, efectuado, costar, recomendar, sirio, Meca, dedicar él, Tarradellas, señalizar, farol, dotación, 
+
+
+Cluster 45
+Frequent terms: barcelona, congelan, un, incrementar, consejo, revisión, manera, los, las, atrás, 
+Words: dar, uno, hasta, manera, evolución, cautela, sí, hora, calle, dejar, vuelo, mano, difícil, moda, Fira, cuál, ala, oportuno, nivel, fijado, Richard, convención, digno, recalificación, SABADELL, absoluto, Begoña, Fusi, despegar, reproche, Nacional, representar, trozo, trabajado, optar, ligero, Castellers, pilar, término, denunciar, marroquí, consecutivo, Marín, acentuado, brazalete, habitado, Tercer, sobra, MAR, menospreciado, wetlands, presa, principalmente, audiometría, denegar, enclavado, irrupción, decir él, banco, estacionar, 
+
+
+Cluster 46
+Frequent terms: barcelona, marcha, subida, atrás, decidió, entrar, las, ayer, gobierno, tras, 
+Words: subida, derecho, tarea, apruebe, pagar, alteración, Gràcia, comercio, avisar, llevar, ocasionar, diseño, mejorar, interrogatorio, mentira, competitivo, debate, decreciente, cambio, dónde, cabeza, espera, ostra, guiso, PUIG, Como, obra, vivienda, taller, Renfe, construir, aumento, discontinuo, antideslizante, descongestión, motivar, recogida, final, ampliación, significado, expresamente, identificar él, sorprendido, representante, noviembre, libro, ruso, Aviación, contención, informativo, resto, elevar, salón, Automóvil, recomendación, corriente, huevo, pequeñez, picnic, jornada, niña, risa, dels, idea, Social, pensant, III, privado, moro, fotográfico, fotógrafo, puente, Vallcarca, comunidad, oprimido, reloj, extendido, inaugurado, famoso, realquilar, adquisitivo, Transport, teniente, decidido, comisión, apoyado, Alcázar, cloaca, Zam, cangrejo, extracción, humor, Enric, deseo, lábil, capricho, comisionar, custodiar, 
+
+
+Cluster 47
+Frequent terms: barcelona, por, año, autopistas, manera, de, anunciada, tarifas, una, hasta, 
+Words: luz, verde, hecho, cierto, despertar, crítica, equilibrio, financiero, cómo, tren, fácilmente, evidente, muerte, es, cola, indicativo, excremento, nudo, pintura, fundamental, adelante, pesetas, carencia, Ministerio, trabajador, incapacitado, invalidez, refinada, pistola, quizá, tradicional, agricultor, aniversario, folrado, Sitges, rivalidad, normativo, demostrar, pacifista, fácil, antimilitarista, acelerar, examen, incumplir, estatua, alerto, Catalana, controlar, invertebrado, libertad, menú, destartalado, nacionalidad, Govern, delante, 
+
+
+Cluster 48
+Frequent terms: barcelona, los, que, marcha, decidió, de, iba, congelados, gobierno, decreto, 
+Words: ayer, en, inflación, con, mercado, cuadro, compatibilidad, cuarto, suficiente, social, emergente, esconder, quien, injustamente, movilidad, Sarrià, constatar, integración, Ayuntamiento, previsto, número, vitalicio, tercero, básico, dar él, matrimonio, gángster, larga, Àlex, batalla, destino, volar, gasto, director, Motocicletas, Papá, avance, ciencia, tratamiento, adquisición, peligrosísima, taxista, diciembre, Ripollet, Diocesana, empresario, Educación, Joseba, Achotegui, expulsar, conciencia, andaluz, clandestinamente, Hipólito, retal, abonar, Barcelonés, transformación, consolidación, marzo, comprobar, hervidero, restante, arriesgar, obviamente, oca, cenar, Splash, aíslar, infraestructura, abajo, amablemente, parlamento, impresionar, vigilado, Parcs, expirar, somero, Arabia, Islámica, denuncia, Aunque, Centrales, gentil, Científicas, Beauvoir, 
+
+
+Cluster 49
+Frequent terms: barcelona, tendrá, actual, alza, ayer, también, sólo, incrementar, atrás, paralizar, 
+Words: ergonómico, accidente, joven, recubrir, sueco, pesar, alemán, italiano, LUIS, francés, ahuyentar, dibujar, Jove, intervenir, Belgrado, distinguir, geométrico, dominado, sofisticado, invierno, protegido, fortalecer, Urenda, 
+
+
+
+
+~~~ Count Vectorizer ~~~
+
+
+Total clusters:50
+Cluster#0 - Total words:48
+Cluster#1 - Total words:70
+Cluster#2 - Total words:107
+Cluster#3 - Total words:21
+Cluster#4 - Total words:121
+Cluster#5 - Total words:96
+Cluster#6 - Total words:62
+Cluster#7 - Total words:67
+Cluster#8 - Total words:88
+Cluster#9 - Total words:57
+Cluster#10 - Total words:69
+Cluster#11 - Total words:122
+Cluster#12 - Total words:74
+Cluster#13 - Total words:48
+Cluster#14 - Total words:45
+Cluster#15 - Total words:50
+Cluster#16 - Total words:122
+Cluster#17 - Total words:69
+Cluster#18 - Total words:35
+Cluster#19 - Total words:144
+Cluster#20 - Total words:91
+Cluster#21 - Total words:54
+Cluster#22 - Total words:107
+Cluster#23 - Total words:130
+Cluster#24 - Total words:154
+Cluster#25 - Total words:96
+Cluster#26 - Total words:48
+Cluster#27 - Total words:33
+Cluster#28 - Total words:97
+Cluster#29 - Total words:192
+Cluster#30 - Total words:103
+Cluster#31 - Total words:81
+Cluster#32 - Total words:36
+Cluster#33 - Total words:27
+Cluster#34 - Total words:102
+Cluster#35 - Total words:66
+Cluster#36 - Total words:46
+Cluster#37 - Total words:81
+Cluster#38 - Total words:52
+Cluster#39 - Total words:107
+Cluster#40 - Total words:68
+Cluster#41 - Total words:53
+Cluster#42 - Total words:92
+Cluster#43 - Total words:64
+Cluster#44 - Total words:76
+Cluster#45 - Total words:37
+Cluster#46 - Total words:72
+Cluster#47 - Total words:33
+Cluster#48 - Total words:31
+Cluster#49 - Total words:45
+
+Top terms and words per cluster:
+
+Cluster 0
+Frequent terms: barcelona, dar, suspender, marcha, en, generalitat, que, vigor, hoy, decidió, 
+Words: anual, al, tarifa, inflación, reducción, durar, presente, bianual, constatar, deportivo, Coberta, culto, gángster, soler, emperador, larga, chárter, rueda, tomar, terreno, ciencia, didáctico, mercader, funcionar, Nova, vacío, Ripollet, empresario, secretario, visión, Achotegui, conciencia, pesimista, Defensa, LÓPEZ, Laso, valorado, Tusgsal, Barcelonés, oca, Roser, González, azafata, vigilado, NADAL, Parcs, gentil, encargar, 
+
+
+Cluster 1
+Frequent terms: barcelona, peajes, quedan, autopistas, ayer, subida, anual, entrar, que, conocer, 
+Words: tras, que, sin, cierto, despertar, señalar, explicar, apruebe, añadir, suministro, factor, timidez, cuestión, EDUARD, Trinitat, isla, Major, municipio, hospital, Arts, Clos, finales, situado, Badalona, finalizar, Trabajo, ampliar, Pallejà, mayoría, descarga, temporada, Fusi, Daurada, impar, evolucionar, federación, cauce, Circular, experiencia, taxista, existente, tuviésemos, caseta, constituir, sano, Cantabria, Campanes, probabilidad, importancia, GONZÁLEZ, magrebí, surgir, colapsar, mínimo, calzada, realizado, primario, malestar, judicialmente, subcomisión, Ambient, pantera, interferir, occidental, Ir, delimitar, Boi, irrupción, fortalecer, saudí, 
+
+
+Cluster 2
+Frequent terms: barcelona, de, las, peajes, la, debía, marcha, autopistas, gobierno, dar, 
+Words: su, entrar, ser, poder, hecho, delegado, compañía, financiero, ese, demostrado, cuando, techo, Sant, porque, sueño, dama, sobre, Institución, muerte, tratar, ostra, vino, barrio, ROIG, patio, fundamental, restringido, proximidad, Bonaplata, implantar, desarrollar, vidrio, embotelladoro, fuera, casa, Ikea, implantación, comercial, sostener, sancionador, García, perjuicio, millonario, dimisión, leído, Fabrizio, ropa, suceso, medias, Giné, Atlantis, diariamente, agachar, enfermería, Eugeni, Ramírez, hagiográfico, Joaquín, envidiable, cerdo, huevo, norma, climatológico, francés, apuesta, agricultor, educativo, Geltrú, replicar, optar, ingrediente, encuentro, Porta, Optó, antimilitarista, Mujeres, medir, Buzid, apenas, Trafalgar, comprar, alarmar, prenda, Capacity, estudio, comité, sesión, hiedra, Policía, paraje, dibujo, electrónico, Park, grecs, Gramenet, rana, variedad, Martorell, frondoso, World, Trade, impresionar, lavabo, propuesto, torno, gesto, palpitándome, 
+
+
+Cluster 3
+Frequent terms: real, barcelona, un, dar, aprobó, correspondientes, ministros, tras, suyas, hasta, 
+Words: deber, real, eléctrico, conducir, trágico, programa, Infraestructuras, común, presencia, Rubí, inmenso, factura, Cultura, condición, castell, Lázaro, máquina, comprador, tienda, indicado, lista, 
+
+
+Cluster 4
+Frequent terms: barcelona, los, la, subir, sus, que, cuenta, ministros, suyas, no, 
+Words: aplicar, especialmente, próximo, paraguas, Para, pieza, escoba, ya, afirmar, clientela, allí, semáforo, Zona, distinto, diez, afectar, Begues, climatología, mundo, pensar, utilizar, Neus, Mireia, nuestro, nota, seductoro, clima, protagonismo, emergente, dos, atendido, exquisito, instituto, pelo, histórico, sur, adelante, Ambiente, resolver, emblemático, París, alternativo, digno, Creu, regular, Pombo, técnico, diario, aparición, abuela, aficionar, Antonia, idiota, asistir, confirmar él, preceder, gama, palabra, usted, Institut, guía, dirigido, medicina, recuerdo, fomentar, mimar, arriesgado, peligrosísima, modernidad, ocurrir, hortelano, huerto, Consistorio, centenar, lamentable, infantil, Catalunya, Jordi, Diocesana, denunciar, calar, confundir, reestructurar, cansado, pared, dispuesto, Circulación, Highway, viario, aguja, improbable, Metropolitana, Nord, desocupación, Parlament, pretensión, periodo, Clausell, TOSSA, Ametllers, Zeus, verificar, luna, Batalla, Arqueològic, abarcar, procedente, presa, caudal, bombee, certificado, avioneta, honda, ocupado, preciso, judicial, Árabe, Empordà, comunicar, Psicología, gravemente, 
+
+
+Cluster 5
+Frequent terms: peajes, barcelona, congelados, autopistas, subida, dar, ayer, anual, generalitat, suspender, 
+Words: decidir, suyo, mes, abril, ministro, mercado, litro, pronto, interior, pérdida, todavía, Garraf, requisito, fácilmente, desnudar, centrar, sacar, obra, nudo, pintura, último, TMB, Medio, promovido, dúplex, peregrino, Vallès, pensión, trabajador, incumplimiento, invalidez, convocatoria, Plaza, concluyes, convivencia, república, impedir, contestar, Aprilia, Nacional, Sector, expositor, doctor, padecer, género, comarca, leyenda, verter, tirar, diferencia, espalda, Nissan, trastero, completar, Terrassa, Vilafranca, rivalidad, inmigrante, vertiente, Mina, desligar, etnocéntrico, Servei, Refugiats, vigilante, piedra, apreciar, bromear, traer, relatar, numerado, dominado, sofisticado, wave, inspector, figurar, ir él, atropellar, adornar, varado, Sauret, rescatar, Port, escollera, Endesa, instalar, ecológico, continuamente, determinante, lucha, impresión, ubicación, financiar, denuncia, infringir, Beauvoir, 
+
+
+Cluster 6
+Frequent terms: barcelona, las, de, en, generalitat, quedan, atrás, dar, suspender, vigor, 
+Words: en, posible, renovación, aun, luego, respecto, motivo, espera, espardenyes, rozar, freno, movilidad, contestación, tímidamente, Corbacho, Director, aspecto, industrial, número, manifestante, básico, frail, duro, ciclomotor, MarBella, jornada, válido, defender él, fondo, separar, Centre, reloj, extremeño, retal, habitual, satisfactorio, prestar, Montcada, tasado, cuerpo, formalmente, negociación, personal, Escolania, inconformidad, tecnología, complicado, visitar, Ibèria, inauguración, torturado, provocado, controlador, Cubí, demonstration, perturbar, enterar, original, ración, sirio, incógnita, dimitir, 
+
+
+Cluster 7
+Frequent terms: barcelona, congelados, decidió, marcha, la, consejo, que, dar, en, revisión, 
+Words: Autopistas, fuerte, comercio, propietario, redondeado, cultural, estadio, perder, esconder, barato, Joan, regulado, transporte, previsto, varios, desalojar, reconocer, cortar, devorar, observar, educación, padre, Alfonso, Juan, saber él, Haneke, adoptar, gasto, reproche, secreto, habéis, residual, comprensivo, Sabadell, Benjamín, esquivar, Vecinos, empleo, cerrado, Joseba, coger, Pensament, Montserrat, contemporáneo, posteriormente, acogida, Franco, gestionar, transformación, organización, arrastrar, marzo, Cruz, colisión, restante, sensación, insecto, ribera, conciudadano, MONTSE, rambla, estacionar, bulto, renuncia, Centrales, preguntar él, defienda, 
+
+
+Cluster 8
+Frequent terms: barcelona, ayer, las, decidió, subida, anual, debía, iba, equivalente, vigor, 
+Words: actual, responder, ocasionar, olvidar, caducidad, tomado, ficción, aquel, solamente, resolver él, espacio, injustamente, moto, Sarrià, modificar, captación, arquitecto, convención, pretender, debido, Fenosa, recalificación, miércoles, sueco, Revalorització, empleado, equipo, grave, edición, dinosaurio, existir, acumular, respeto, refugio, atemorizar, Grebe, escondido, ruso, turista, despegar, cita, control, club, tono, medular, puesta, imagen, granjero, corriente, picnic, ahuyentar, fallecer, apestar, trabajado, serenidad, Nens, artesanal, alquilar, Mútua, calvario, desinformación, alcance, paz, oro, Rialto, decibelio, Martínez, incendio, daño, Universitat, redacción, Fayos, preservar, apoyado, excavación, MAC, disfrute, dotar, motorizado, efectuado, precisamente, Nogueras, multa, segunda, Isern, farol, campaña, investigador, 
+
+
+Cluster 9
+Frequent terms: barcelona, las, congelados, de, decidió, atrás, suspender, dar, quedan, la, 
+Words: conocer, actualmente, así, bastar, servicio, Carmen, escritora, vencer, eco, calificar, aceptar, antideslizante, oficial, práctico, fachada, iniciar él, Mataró, recabar, romper, dar él, década, cierne, Navalcarnero, absoluto, soviético, Derbi, Antoñanzas, certamen, gigante, manual, posibilidad, jinete, sobrevivir, mira, enxaneta, aleta, reúnir, país, racismo, típico, DANIEL, migratorio, prescindir, valle, presentado, anular, atraer, electrodoméstico, faceta, budista, dedicado, científico, cordón, limpiar, itinerario, colaborar, realizar él, 
+
+
+Cluster 10
+Frequent terms: barcelona, la, generalitat, congelados, quedan, las, los, subida, vigor, dar, 
+Words: metropolitano, catarara, venta, mal, criticar, previsión, aún, rascar, recorrido, aparecer, alejar, guión, alarmista, suficiente, pasar, etapa, marisco, señal, peatón, realizar, montar, accidente, TRINCHERÍA, promedio, avanzar, presupuesto, apuntado, construir él, esperar, celebrado, avenida, camino, asunto, higiene, Phillida, enriquecer, música, diferencier, mujer, Yourcenar, viajar, atribuir, innovadoro, casco, plantar, caos, regulación, siete, atravesar, mortal, folre, Tocs, campanario, violencia, FRÍAS, oculto, gitano, suerte, trasnferir, contacto, Semele, Drac, Aventura, molesto, prueba, resignación, Tomàs, coránico, atreveír, 
+
+
+Cluster 11
+Frequent terms: barcelona, anual, de, suspender, la, tarifas, tendrá, vigor, josep, congelan, 
+Words: actuar, incrementar, automático, permitir, económico, indicar, seguidismo, sí, Boqueria, filtrar él, día, local, fruta, mucho, calidad, gustarte, algo, movimiento, mayoritariamente, literario, hombre, cuento, saber, lograr, contar, justificar, echar él, certero, poner yo, ala, sala, echar, velocidad, paso, Europa, Via, vecindario, razonable, segundo, material, reciclado, Pedrosa, desalojo, Guifré, celebrar, seguridad, representante, Anton, contener, margen, Dolores, griterío, constar, Magda, alegría, destino, volar, contención, concreto, total, arbusto, excepción, Papá, aconsejable, elogiar, Sanitaris, Blocs, infractor, circulatorio, río, patinazo, acercar, impacto, debilitado, Campaners, os, elaborar, gueto, Educación, Si, extraño, fotografía, índice, movilizar, rendición, Manolo, fabricar, semafórico, comprometer, Según, mas, Turó, situar, administrativo, formal, Educació, Serveis, depender, enfrascado, Tossa, brazo, denotar, VII, menospreciado, medioambiental, cangrejo, Despí, avión, aviación, audiometría, calificación, desfilar, dócil, airado, demá, ajustado, gratinado, decir él, detonación, dorado, reincident, diputada, 
+
+
+Cluster 12
+Frequent terms: barcelona, peajes, de, autopistas, ayer, congelados, marcha, vigor, precios, procedimiento, 
+Words: precio, semana, razón, Manuel, caer, área, pendiente, baix, cebar, plástico, entonces, trabajar, otra, peso, menor, obvio, continuo, sufrir, decisión, capacidad, voluntad, británico, energía, Montornès, ruina, bronquial, tercero, movilización, sentar él, adolescencia, página, frívolo, Joshe, Àlex, trascender, alumbrar, parecer, analizar, iglesia, mol, tu, adecuación, fuerza, ambiental, esbelto, Granollers, participar, Integración, obligatorio, inaugurado, ruido, acoger, Tercer, peligro, retrato, Collserola, Coll, vuelta, Isidro, Executiu, indicio, repleto, Panasonic, Terribas, árido, Center, Federación, fundado, imprevisto, visita, corresponder, estrictamente, girar, Simone, 
+
+
+Cluster 13
+Frequent terms: barcelona, las, autopistas, generalitat, dar, atrás, la, sus, apruebe, suyas, 
+Words: Hospital, saltar, incluso, cinco, profesora, amor, ancho, aplaudido, tocar, DE, concejal, prosperar, vivo, construcción, antes, extender él, Entidad, Transporte, actividad, decoro, departamento, Serrano, excusa, Bogatell, Mostra, consideración, dormir, furgoneta, congestión, Meridiana, Aunós, confirmar, envergadura, actor, tranquilo, evacuado, Japón, Borja, principalmente, ecosistema, arriba, honor, Air, huelga, raigambre, expresión, emancipación, Normal, 
+
+
+Cluster 14
+Frequent terms: barcelona, la, generalitat, quedan, dar, congelados, marcha, hoy, sus, no, 
+Words: uno, tener, derecho, interés, abonado, coche, mando, gafa, querer, mesa, aparte, SIMÓN, vehículo, ditribuir, BADALONA, respetar, protesta, pesar, ópera, maldad, considerar, Roig, unidad, Internacional, entendido, atropello, enero, Capgrossos, xxvii, autóctono, degradado, implicar, Justícia, aglutinador, Woolf, proceder, MARIA, lamentar, Marià, barrera, extra, Hostafrancs, hallazgo, captar, patrimonial, 
+
+
+Cluster 15
+Frequent terms: barcelona, atrás, generalitat, congelados, dar, ayer, autopistas, gobierno, año, 2000, 
+Words: mismo, ronda, penetrar, resguardar él, subsanado, llevar, ahora, tendencia, objeto, resultar, NICOLÁS, sustancial, capítulo, oposición, Torrelles, Rogers, mirador, firma, Urbana, referéndum, casar, cabecera, competente, preocupar, excesivamente, Ortín, Santa, Sampons, intento, presagio, positivo, defender, vender, tanque, cuánto, hacinado, ocho, equipamiento, arrancar, nefasto, conservada, Torrebonica, coordinador, escolanet, estadística, queso, Hacienda, imán, pesidencia, bang, 
+
+
+Cluster 16
+Frequent terms: barcelona, peajes, la, suspender, tras, hoy, vigor, anual, debía, equivalente, 
+Words: el, dar, aprobar, IPC, paralizar, diverso, para, Grau, Nadal, amplio, problema, fase, más, docena, falta, decir, concluir, gotera, Gavà, Climent, uso, presentación, gustar, específico, faltar, cumplido, chantaje, transformar, interrogatorio, frente, enfermo, cómodo, vecino, aumento, media, bajar, Carme, Bonanova, Cuervo, contenedor, urbanístico, plataforma, sexto, manifestar él, policial, volumen, envejecer, salir, Alorda, estupor, Costa, alarma, Lleida, Asociación, presión, cuidar él, tratar él, texto, minoritario, puig, recomendación, purín, depurar, allá, peligroso, ciudadano, función, ilegal, Barceloneta, textil, aniversario, cinc, corazón, descenso, Jove, celebración, campanero, Ocupación, Ilyas, órden, expulsar, contenido, demostrar, antiarmas, fácil, artículo, cuatrocientos, Marche, molestia, detalle, negocio, semaforizado, cruz, Juli, Engineering, atasco, Urbanismo, Marina, Constitució, superintendente, autonómico, clase, humano, cámara, ejercer, metal, descanso, arbolado, sauces, abajo, reir, Turisme, cao, bar, disminución, Libro, dependencia, nacional, correctamente, hagan, terminal, rozándol, 
+
+
+Cluster 17
+Frequent terms: barcelona, quedan, de, autopistas, suspender, ayer, gobierno, entre, hoy, entrar, 
+Words: atrás, correspondiente, asegurar, puesto, abrir, primero, adyacente, ver él, diversidad, bajo, escritura, enorme, emanación, abstención, túnel, habitación, Ayuntamiento, poblado, producir, moratoria, establecido, anoche, licencia, Querol, memoria, posguerra, XIII, fabricante, integral, Combinación, metido, REDÓN, PAGÈS, SERRA, blindado, facilitar, diciembre, actuación, Maria, Cohesión, deje, coronar, conscient, entrenador, Miquel, Blanques, Psicopatològica, profundizar, labor, Escobar, cincuenta, calor, descargar, desarrollar él, Numància, desmantelar, Vivenda, destacable, dios, habitáculo, ibera, helicóptero, planeador, reflejo, legendario, ferrat, Palau, recordación, estricto, 
+
+
+Cluster 18
+Frequent terms: hoy, barcelona, mismo, vigor, dar, congelados, anual, suspender, generalitat, marcha, 
+Words: congelar, hasta, oscuro, hacer, dependiente, plagio, órgano, anteayer, nivel, marcado, formado, estraperlo, Press, versión, Scarabeo, doctora, Camp, carril, Vilanova, difícilmente, mecanismo, asociación, per, aprobado, ámbito, Santiago, Piulats, crecida, colector, Marta, quizás, amablemente, enclavado, oir, maletero, 
+
+
+Cluster 19
+Frequent terms: barcelona, los, decidió, marcha, la, atrás, las, dar, ayer, vigor, 
+Words: ayer, vigor, él, equivalente, hacia, con, compensar, recordar, alteración, grande, puerta, poner, subterráneo, respectivamente, aeropuerto, arte, diseño, particular, estudiar, vagón, sonoro, vida, tal, Shakespeare, qué, atracción, Cambra, negar, directamente, demasiado, ahí, MARGARITA, PAGANI, vía, punta, minoría, plan, ambos, acceder, precisar, apertura, cartón, millón, punto, cadena, categoría, cuatro, Pryca, asma, concentración, circunstancia, conjetura, asombroso, prestigio, lectura, limbo, Francia, parado, permanecer, Aranguren, Maribel, sindicalista, amenazar, Civil, informar, enfrentar, Seskutov, solidaridad, cilindrada, motocicleta, elevar, independiente, Motorshow, Guttmann, continuación, presidir, embarcar, puntualizar, ocupar, consciente, amenaza, reducir él, ordenación, amb, rasguño, Minyons, Sitges, risa, Magrí, Rubió, titánico, impulsora, ejército, lejía, Negro, oprimido, bolsillo, paquistaní, relieve, Inglés, feroz, polvorín, Navarro, detección, Rogent, carrera, Presidència, Maragall, Cortes, griego, bombero, ocupante, Doraemon, virguería, informático, ceremonia, cenar, Brava, Oh, Grecia, quimero, reabrir, bosque, renovar, comprobación, nostalgia, cesar, añoranza, avergonzar, quebrar, sea, rapsodia, Diputación, Radi, Sudais, Urenda, Alt, desperfecto, bueno, relevo, nombramiento, dedicar él, dar yo, durísimo, 
+
+
+Cluster 20
+Frequent terms: barcelona, autopistas, el, anual, ministros, piqué, automática, sus, iba, un, 
+Words: marcha, hoy, ir, administración, todo, pero, cortocircuito, suelo, general, desde, reforma, descender, Olesa, mano, utilizar él, anuncio, señora, aprender, gobierno, superar, poner él, examinar, cívico, gas, alcanzar, Augusta, utilización, móvil, derrumbamiento, contundencia, socialista, suponer, pausa, humanista, rango, deuda, marca, atesorar, par, calcular, coordinadora, repaso, clínico, Recursos, colección, fiesta, servir, Jubilado, viento, cara, Vailets, germen, Cáritas, prejuicio, desaparecer, testamento, acentuado, brazalete, entero, huir, vicepresidente, empuje, Movilidad, escaso, Esplugues, culminar, nave, aplicación, opinión, consecuencia, museo, gana, Vida, Besòs, panel, virus, depredador, ave, subsanar, Forné, alcachofa, embargarno, JOAN, Gaudí, alcaldía, Aunque, izquierda, marrón, debierir, Pessarrodona, Joaquima, 
+
+
+Cluster 21
+Frequent terms: barcelona, ayer, marcha, atrás, congelados, generalitat, hoy, debía, que, conocer, 
+Words: revisión, concesionario, mejor, zona, ni, Cerdà, metro, caso, moda, PIJUAN, mortalidad, modificación, proponer, Torres, Doctor, incluido, cocina, envase, Associats, sanción, prensa, cualquiera, rey, tarragona, garantizar, Arrabassada, exhibir, investigación, fumar, vertedero, altura, patera, barco, trescientos, Psicosocial, ecologismo, arca, emigrante, detectar, gerente, Ricard, intercentro, mixto, simulacro, Bola, lengua, religión, inválido, Nozomi, Museu, Lines, sorpresa, somero, Muafaq, 
+
+
+Cluster 22
+Frequent terms: barcelona, las, los, de, peajes, atrás, marcha, ayer, que, suyas, 
+Words: evolución, competencia, verde, principios, equilibrio, fregona, alcantarilla, verdura, ver, averiar, medio, veces, femenino, pregunta, Arturo, social, arbitrar, realmente, Noble, pasear, pánico, cebra, recubrir, barcelona, Mitre, acordado, eliminación, Rei, PDI, otoño, ensanche, bloque, Vía, refinada, recuento, aspiración, libro, cargar él, escuchar, Begoña, Fondevila, turismo, bilateral, vicejefe, Paeria, Arnalot, periódicamente, Francesc, gracias, era, separado, Ruedas, maravilloso, alumno, Del, conocimiento, presidenta, tradicional, peligrosidad, enemigo, capital, matriculado, barcelonés, encoger, niña, Vendrell, bodega, Fotogràfic, alerta, Rettangolo, geométrico, GARCÍA, masivo, chino, coser, sobra, cálculo, semafórica, lustre, giratorio, cielo, consolidación, Alcober, plantilla, Mar, escultura, Roja, esforzar él, Kii, Hirata, Madrona, Zam, realineación, Salzareda, alerto, Catalana, sanguijuela, procesar, abiertamente, bobies, puñado, menoscabo, duda, Arabia, Mossos, Govern, licenciado, 
+
+
+Cluster 23
+Frequent terms: barcelona, de, autopistas, los, suspender, ayer, mismo, dar, entrar, subida, 
+Words: imitar, marco, velar, diputado, reclamar, afectado, gota, alrededor, emplear, dirección, avisar, parte, conducir él, depósito, aunque, táctil, bebida, recién, mediante, raíz, ante, llamado, mentira, Comerç, vitalidad, entorno, Andreu, motorista, integrante, tres, cortado, extender, cosa, Bellvitge, gabinete, alcalde, creado, estrella, suite, carretera, Tractament, enfermedad, Penal, Comisiones, apoyar, junta, votar, popular, vivir, lugar, Ros, asesorar, retroceder, patronato, llegada, transportar, monopolio, electoralista, UE, jardines, domingo, margarita, pequeñez, vecinal, arreglar, tierra, Civis, barraca, inyección, paralelamente, depuradora, litoral, temperatura, limpiir, Valls, aixecador, escalofriante, Mediona, mirada, País, Font, legalmente, plantear él, III, fotógrafo, referenciar, Montalegre, intervenir, treinta, dispendio, andaluz, despegue, laberinto, intermediario, argot, Montigalà, alusión, avanzado, morir, veinticinco, recordatorio, San, cien, comisión, Consell, prioridad, quisiser, petición, villa, Segura, conectar, ducha, resurgimiento, natural, orgulloso, Principado, correspondencia, inestable, porción, bancario, tampoco, despejar, mossos, aclarar, escoger, Servicios, Viladomat, sien, señalizar, dotación, 
+
+
+Cluster 24
+Frequent terms: barcelona, los, de, la, sus, marcha, atrás, un, mismo, ministros, 
+Words: suspender, alza, caída, interpretar, único, cautela, prever, política, principio, menos, poco, ciento, mil, manifestar, gente, notar, Carlos, complejo, hoja, mi, crecer, Bella, pleno, tarde, Fira, dirigente, quemar, historia, Botafumeiro, oportuno, carta, peatonal, chocar, BARCELONA, junto, contaminación, MONTSERRAT, papel, Celestino, hotel, rascacielos, diseñado, General, superficie, difusa, alto, asesor, ubicar, congreso, significado, Martorelles, obligar, Pública, acto, Van, nosostro, moción, cierre, crónica, malo, internado, feliz, teatro, escenario, capaz, cepillir, Mercedes, pistola, apoyo, cabreado, MITT, moscovita, Sheremetievo, empresariado, turístico, Departamento, rusa, Exposición, coautora, proceso, gestión, Busto, crear, representar, levantado, granja, ona, comentario, aquí, mueble, Fondos, sol, humedad, ubicado, acabado, dibujar, Vila, Trobada, dels, Castellterçol, Noguera, Estratègic, esperanzador, ensanchar, chabola, miseria, Alta, plato, argelino, transcurrir, normalmente, biblia, ingeniero, cruzar él, embarazado, horario, cese, Ejército, catástrofe, incumplir, justicia, importación, decorado, gira, japonés, naturaleza, sorprender, castellano, sobrepasar, Alcázar, vueltecita, despierto, través, neumática, invertebrado, clave, regar, identidad, comarcal, mecánico, ultraligero, Andorra, contribuir, menú, trabajadísima, seta, destartalado, establecer, mezquita, Meca, precisión, íntimo, comprensión, intermitente, 
+
+
+Cluster 25
+Frequent terms: barcelona, de, la, suspender, generalitat, subida, tras, estado, vigor, congelan, 
+Words: tipo, subrayar, gran, Madrid, convertir, colocar, inherente, cuarenta, difícil, serie, verdad, culpa, Ferial, Ifema, voto, creciente, regla, declive, cabeza, pescado, Como, circular, cerca, tráfico, Karr, recoger, necesitar, consejo, falda, destacar, antiguo, hundir, lunes, riesgo, compensación, desear, místico, nadie, Reixach, culo, sembrar, reglamento, crédito, Pilar, Siurana, inversor, imitar él, jardín, patología, férreo, Nápoles, fíar, canalización, disfrutar, seguido, Olimpiada, olimpismo, protagonista, Vasco, Aragón, Borges, Núria, fiel, transmitir, fotográfico, intentar, Belgrado, rèserve, concentrar, Prontomoda, Decathlon, Mientras, Castelldefels, inicialmente, crispado, residencia, Dionisos, mármol, hormigón, AVE, aíslar, tirar él, adecuadamente, marinero, renunciar, aplicar él, práctica, tastet, adaptado, expirar, Audi, Buenaventura, matrícula, señalización, Residència, CSIC, 
+
+
+Cluster 26
+Frequent terms: ayer, barcelona, dar, decidió, generalitat, de, suspender, subida, ministros, decreto, 
+Words: medida, cliente, vocación, confesar, leer, entramado, bajada, preñado, cuál, donde, ayuntamiento, ferrocarril, hundimiento, normativa, enseñar, Satrústegi, pantalón, acuerdo, Motocicletas, quién, recordarles, arrollar él, vuit, desmontado, set, estable, interculturalidad, acción, drogadicción, Pere, ponderar, remodelación, escolta, conseller, arqueológico, externo, desvío, Tarín, laboratorio, protección, envíar, rellena, caserísimo, citación, palestino, lateral, localizar, autorizado, 
+
+
+Cluster 27
+Frequent terms: decidió, barcelona, congelados, generalitat, las, peajes, suspender, mismo, estado, inflación, 
+Words: anterior, PSC, Llobregat, vez, cuyo, tejado, creer, pesadilla, posesivo, moderno, exclusivamente, admitir, arquitectura, finca, manifestación, armado, Lampedusa, rico, exterior, Departament, deteriorada, Garrotxa, repartir, comunidad, motif, encargado, Ca, alegación, récord, protegido, protagonizado, paralelo, artificiero, 
+
+
+Cluster 28
+Frequent terms: barcelona, quedan, peajes, de, decidió, autopistas, marcha, al, subir, mismo, 
+Words: quedar, congelado, Generalitat, beneficiar, tanto, pasaje, calvo, agresivo, interesar, sentimental, opinar, reunión, informe, seguro, hacer él, solitario, chaval, piso, cosechar, De, edificio, municipal, homogéneo, característica, pequeño, lado, Residus, SA, formación, Vilallonga, Janés, Cárcer, moscú, impagada, llamar, Davidson, vista, Bayés, integrado, innovador, española, cumplir, confianza, fijar, acera, cuidadoso, Administración, aprecio, juego, ayudar, tramo, canalizar, bañista, playa, grado, quatre, escolar, profesor, Ivars, intercultural, Món, contratar, rondar, puente, rectangular, contorno, democracia, MASOT, submundo, derribo, citar, variar, interurbano, teniente, Magòria, Socials, trasero, acotado, enmarcar, cloaca, mosquito, Prat, anualmente, incapacitar, puerto, Ferrusola, aprendido, libertad, miniaturo, anchoa, ou, chocolate, rabiosamente, Jardins, Casa, Ignasi, dicho, 
+
+
+Cluster 29
+Frequent terms: barcelona, peajes, los, la, congelados, dar, ayer, que, subida, adelantó, 
+Words: portavoz, Josep, Piqué, sistema, luz, crítica, sector, preferir, dedo, usuario, mantenimiento, ley, expresar, profundo, plaza, llegar, sentir, parada, cascada, pollo, jamón, viernes, buen, ergonómico, podrar, tren, comida, criatura, modo, residir, relato, información, Pero, evidente, realización, finalmente, claro, crítico, curar él, barra, es, degradación, bien, excremento, discurrir, Monasterio, REVERTER, habitante, Bosco, descongestión, selectivo, Castellbisbal, carencia, referencia, colaboración, Balaguer, SL, casi, nombre, espectacular, autor, Pompidou, terraza, geográfico, kilómetro, incapacitado, golf, originar, pacto, postura, dosis, ironía, enviar, igual, valor, desmán, sociedad, insufrible, relación, intenso, Beaulieu, contrario, justo, Federico, Correra, Lolita, regresar, disputa, aéreo, Aéreo, síntoma, crisis, edil, cuota, BMW, italiano, repercusión, imponer, salón, Automóvil, Àngels, Tarragona, peripecia, LUIS, ALFONS, sardina, caja, habilitar, claramente, pie, eliminar, pez, estado, ocio, GELTRÚ, terços, folrado, campeonato, animador, millar, toque, localidad, viejo, Laura, Sin, título, desarrollo, conflicto, buena, gracia, interpretación, años, distinguir, atrevido, triunfar, solidarizar, quejar, Ciutat, ANNA, Durante, dedicar, acelerar, foro, someter, examen, desangelada, Elíes, limpieza, intervalo, incorporación, Casas, protestar, Carta, Hisenda, Consorci, conversación, Duran, autoridad, surtidor, participación, estación, evacuación, herido, monje, Pyrenees, proveniente, conquista, Coloma, oportunidad, controlar, conductor, logístico, revisar, Mediterráneo, basar, delegación, insistir, agredida, CONSTANTÍ, Saudí, nacionalidad, financiación, activar, biblioteca, financiar él, nombrar, pertinente, legislatura, parar, loco, deuxième, big, 
+
+
+Cluster 30
+Frequent terms: barcelona, autopistas, los, las, dar, suspender, decidió, marcha, ayer, subida, 
+Words: barcelono, Ministros, obligado, máximo, partir, aprovechar, llenar, situación, parcialmente, completo, vuelo, mirar, persona, ciclo, Posadas, soledad, edad, Vanguardia, públicamente, asegurado, dirigir, cuanto, traidoro, superior, importante, circulación, trascendencia, tarjeta, especial, orgánico, horizonte, aficionado, seis, pese, abierto, quinto, agrario, sede, oficina, Código, tromba, exigir, participante, expediente, Obreras, representación, favor, político, presentar, milk, simpatía, vestigio, guerra, dinero, infierno, Manfred, Vázquez, Soler, provincia, Parques, Jardines, abandonado, árbol, medieval, grúas, tanqueta, entidad, vergüenza, cultivar, siglo, ligero, lento, Xics, antigüedad, aportar, explotador, directora, documentar, significar, utilizándolo, solicitar, oleada, mayorista, Piferrer, desbordar, integrar, disco, Medi, decidido, Xarles, ejecutado, divertir, oriental, unir, milagro, templo, acordar, influencia, complementario, afectación, andorrano, monotonía, frontal, 
+
+
+Cluster 31
+Frequent terms: de, barcelona, autopistas, dar, congelados, subida, ayer, vigor, subir, estado, 
+Words: Consejo, por, nuevo, desconcierto, dejar, alguno, mejora, turno, marchar, perro, Renfe, trazado, ERC, registrar, residuo, kilo, recientemente, Blair, agradable, Feijoo, noche, biológico, noviembre, descartar, Eduard, madre, figura, Robert, Rusia, prohibir, contradecir, creces, escaparate, recurrir, Anesdor, bonito, divulgar, Ball, pertenecer, determinar, siempre, cultura, Cuando, comentar, limpio, torre, Castellers, piel, novedad, fabricación, Alemania, plantear, estereotipo, archivo, necesario, compañero, Tica, as, cera, Traffic, minusvalía, Diagonal, ganar, resaltar, funcionamiento, individualizado, periodista, curioso, Slump, vegetación, animal, genoma, titulado, experimentar, electrocardiograma, vaho, espíritu, postre, registro, estacionado, pierna, 
+
+
+Cluster 32
+Frequent terms: barcelona, decidió, generalitat, autopistas, congelados, subir, marcha, tendrá, el, congelan, 
+Words: yo, usar él, Garriga, evidencia, retirar, vigilar, CiU, distrito, presidente, SABADELL, identificar él, exhibición, euforia, Aviación, principal, ayudante, familiar, Nin, tiburón, aire, ocupación, agrupación, multitudinario, consecutivo, esfera, tapón, recurso, encima, aviso, planificar, atender, recibido, disciplinadamente, Kanfash, activamente, tan, 
+
+
+Cluster 33
+Frequent terms: sus, barcelona, anual, suspender, congelados, ayer, suyas, peajes, atrás, autopistas, 
+Words: Gobierno, como, catalán, prestigioso, responsable, elevado, volver, enormemente, Salisachs, Paquita, sumar, víctima, interesado, Colla, Joves, pacifismo, precinto, sesenta, Parcerisas, instalado, inmobiliaria, detonante, romano, SEM, Montjuïc, sencillo, debajo, 
+
+
+Cluster 34
+Frequent terms: barcelona, de, peajes, autopistas, congelados, suspender, no, dar, aprobó, hoy, 
+Words: de, del, entre, otro, numeroso, fuente, controlado, cubrir, improvisado, filtrar, mayor, belleza, agresividad, embustero, Otero, Cataluña, reflexión, sentido, ejemplo, recibir, descubrir, Sants, reforzar, pesetas, identificar, Richard, frontera, urbano, norte, iniciar, agente, colectivo, cautelarmente, sindicato, sorprendido, desacuerdo, liberal, molestar, hijo, Cirera, fila, Antoni, esfuerzo, subvención, Harley, editado, Sedano, lesionado, danza, pueblo, red, ciudadanía, espécimen, escuela, Icària, ambiente, industria, Virtudes, Xiquets, podio, Escolar, Reus, reunir, Ángel, Cervera, mutuo, Libertades, recinto, ordenar, metálico, apartado, firmar, Salut, húmedo, Calderón, sobrado, internacionalmente, aceptado, excepcional, visible, visitante, descubierto, quitar, escéptico, columna, organizar, Camí, publicar, crucero, cruce, elaboradísima, Trabal, embargar, MATAS, apetecible, ambicioso, Abderraman, orientativo, Rey, cebro, amarillo, Superior, 
+
+
+Cluster 35
+Frequent terms: autopistas, barcelona, las, congelados, subida, vigor, en, gobierno, que, nuevo, 
+Words: adelantar, instalación, Fontestà, botón, compatibilidad, ayuda, mantener, revista, Dickens, pasión, pistonado, rápido, Cotxeres, deporte, además, Vergòs, propuesta, disponer, prácticamente, estrategia, Tony, ninguno, autovía, carácter, diagnosticar, prohíbir, policía, permiso, carecer, agreír, inteligente, asistente, anunciar, febrero, médico, Parkinson, generación, distinción, pionero, vulnerabilidad, mar, xxi, lema, agrícola, asimilación, capacitación, Pati, mili, articular, descoordinación, Adda, Manual, todavían, Garrido, Consorcio, citado, Bordeta, optimista, escultórico, hervidero, Pokémon, bacteria, nación, ostensiblemente, permanente, explosionar, 
+
+
+Cluster 36
+Frequent terms: barcelona, de, decidió, generalitat, las, autopistas, congelados, que, 2000, mismo, 
+Words: económicamente, mañana, relacionado, sensibilidad, distancia, desvelar, generar, sién, potenciar, Coronel, joven, familia, temor, Inspección, representatividad, soportar, sobresalir, tratamiento, rehabilitación, sancionar, PATIÑO, entrenar, Codina, Sol, inmersión, organizado, atemporalidad, Mohamed, teléfono, Entitat, desaparición, voluntario, extraer, celeridad, convertido, retirada, ligado, azorado, cristal, Londres, encanto, banco, librería, bastante, multar, sexe, 
+
+
+Cluster 37
+Frequent terms: barcelona, congelados, quedan, las, subida, misma, atrás, decidió, debía, nuevo, 
+Words: después, embargo, solución, fracción, provocar, evitar, incomodidad, línea, necesidad, rendido, conquistar, televisión, película, futuro, aparente, español, diagnóstico, culpable, quien, profesional, Roux, pilón, Ignacio, orden, invertir, Can, desempeñar, mayo, empeño, perder él, gobernante, Montalbán, mediocre, embajada, repartar, repetir, elección, salvar, Salomó, baile, Algeria, patrón, PESSAFERRER, sábado, solo, efecto, Confraria, abocado, idea, Arxiu, Ballell, iniciativa, compartir, mensaje, feminista, ruinosa, Corte, sótano, cargar, traen, ciudadana, busca, marcar, trayecto, bautizar, pata, ficticio, éxito, traductor, chopo, denegar, comunicar él, jamás, caviar, efímero, dotado, reubicación, islámico, interlocutor, tomar él, recuperar yo, 
+
+
+Cluster 38
+Frequent terms: barcelona, autopistas, generalitat, atrás, hoy, por, real, subir, anual, se, 
+Words: lluvia, minuto, coincidir, amante, tiempo, encontrar, desacreditado, extremo, integración, individual, un, prevención, Guardia, Jaume, vulnerar, variado, constante, vacación, Juncadella, resultado, tornar, cinturón, scooter, informativo, Salón, Negre, palmera, avance, Sebastià, libre, muestra, Bordegassos, pilar, Fadel, subyacer, Frederic, conferencia, Manning, color, error, correr, estudiado, fútbol, disciplinario, comprobar, autocar, proseguir, centímetro, proporcional, reivindicación, Projects, Científicas, 
+
+
+Cluster 39
+Frequent terms: barcelona, autopistas, las, los, peajes, congelados, suspender, iba, mismo, apruebe, 
+Words: procedimiento, tarea, central, preocupación, ridículo, intensidad, Barcelona, cuadrado, según, malhumor, desagüe, dentro, alma, escribir, caigan, Bárbara, restaurante, merecer, ofrecer, probablemente, indicativo, acústico, asfalto, dato, cifra, creación, simple, automóvil, Alonso, Arquitectes, Metropolitano, cuadrados, suspendido, basura, TRM, disolución, fin, rápidamente, revelar, suceder, convenio, Sergei, dictado, alemán, casual, adecuado, ocasión, divulgativo, óptica, Consol, documento, hablado, tradición, bellísimo, adquisición, firme, Pau, menudo, obligación, fluvial, urbanización, castellera, pezqueñín, estilo, precario, Immigrants, Maremàgnum, discurso, impregnar, perjudicar, Vella, Desde, infravivienda, zumr, badalonés, destajo, censo, delincuencia, Ramón, criterio, encuesta, albergar, asistencia, consorcio, instrumento, datar, estatua, señorío, emergencia, animado, perfeccionar, sinceramente, Historia, Amigos, Agua, propiciado, Fomento, minero, tastets, inhumano, cabra, capricho, encabezar, paquete, letra, presidencia, código, 
+
+
+Cluster 40
+Frequent terms: barcelona, generalitat, congelados, los, peajes, decidió, gobierno, el, vigor, se, 
+Words: subida, decreto, empresa, sólo, parámetro, materia, concesionaria, hora, calle, Coloms, cómo, cerrar, tormenta, restablecido, literatura, colegio, cría, nacer, realidad, geografía, dificultar, valer, cola, supuesto, Transportes, público, operación, mientras, planear, MONTORNÈS, comportar, crudo, tierno, matrimonio, nunca, cambiar, entender, jesuita, Ormaolea, vigente, rodar, seguramente, extensión, caber, Que, trozo, urbanizado, atropellado, atento, competición, Extranjeros, Delàs, imposible, ANTONIO, nueve, Barca, universal, estancia, Batlló, propiedad, unanimidad, acompañado, muerta, césped, estibador, oferta, notario, perpetuar él, 
+
+
+Cluster 41
+Frequent terms: dar, barcelona, marcha, decidió, congelados, generalitat, anual, precios, ayer, misma, 
+Words: no, Estado, año, cuenta, centro, conexión, fusibl, existencia, pedir, seguir, PP, doble, José, soterramiento, planta, Rodríguez, grieta, Franca, contra, consulta, Castellvell, idolatrar, aislado, batalla, ex, cargo, socio, oficialmente, Tibidabo, destinar, empresarial, Ajuda, origen, marroquí, diferente, clausura, Benetton, dictadura, Horta, gráfico, conservar, cabo, cortar él, reducido, tópico, guatlla, iraní, plasmar, Islámica, pervivir, periódico, temblándome, descontado, 
+
+
+Cluster 42
+Frequent terms: barcelona, quedan, los, autopistas, peajes, de, generalitat, ayer, dar, decidió, 
+Words: autopista, haber, urgente, propio, tabla, madera, Universitària, Bori, Bonesvalls, objetivo, compra, tú, diseñar, apasionado, fatal, blanco, descubrimiento, momento, bello, pena, incluir, tardar, pues, doquier, acceso, durante, cima, trámite, juicio, exposición, compostaje, mostrar, sustituir, campo, dictamen, infinito, tercer, actriz, escritor, Moscú, actitud, flexible, pago, disparar, Pané, modelo, costumbre, Miguel, delantera, hablar, disciplina, convertir él, ball, vial, atención, afluencia, excursión, VILANOVA, hilaridad, nervio, americano, oficio, curso, Derechos, comunicación, ausencia, plancha, confección, árabe, Handbook, alegre, Mohn, escollo, jefe, informal, convencido, constitución, coordinación, especie, piloto, exhaustivo, globo, Marc, Rigol, Portabella, Varema, referir, increíble, Al, verano, esposa, rato, 
+
+
+Cluster 43
+Frequent terms: barcelona, peajes, las, ayer, de, que, hoy, entre, no, vigor, 
+Words: titularidad, también, definir, serio, En, goteo, forma, agua, causa, concepto, trabajo, alarmante, etimológico, trato, ciudad, suscitar, hallar, Molins, cual, recuperar, Ministerio, castigar, dialogar, marqués, repente, efectivamente, Lamadrid, Sàez, Gimeno, quizá, obstante, europeo, santa, posibilitar, desconocido, frenar, ambulancia, sis, experto, normativo, generador, sitio, Marín, Bulgari, ejemplar, exclusiva, viandante, contradicción, acostumbrar, discutir, viaducto, ele, conocido, ojo, Splash, bici, comprobado, democrático, RIVERO, cuestionar, ideológico, reto, diligencia, delante, 
+
+
+Cluster 44
+Frequent terms: barcelona, los, congelados, generalitat, dar, las, subida, sus, consejo, mismo, 
+Words: peaje, definición, estar, aguacero, causar, paseo, mitad, grupo, preguntar, tenso, institución, advertir, largo, motor, puro, mojado, motorización, continuar, negociar, comenzar, ermita, miembro, solar, resolución, vitalicio, acudir, Armand, Luis, alguien, niño, España, gobernar, Adriano, Nieves, Eduardo, recuperación, Tenerife, junio, Xavier, electoral, obedecer, Empresas, detener, emoción, Crist, parlat, normal, aparcamiento, Ripoll, huerta, buscar, aportación, deformar, II, Àngel, privado, negro, antimilitarismo, pacifista, famoso, realquilar, adquisitivo, polígono, supremacía, valoración, certificar, Iberia, wetlands, premiado, expectativa, encabezado, mobiliario, Shuaibi, comisionar, Investigaciones, Convergència, 
+
+
+Cluster 45
+Frequent terms: barcelona, generalitat, gobierno, conocer, subir, se, un, dar, anual, estado, 
+Words: sino, consenso, perjudicado, Cristina, recomendable, continúar, rechazar, fijado, Plan, inaugurar, Hesperia, recorrer, niñez, robar, López, pasajero, extranjero, envejecimiento, orientación, Tunis, acreditativo, fotoperiodista, foto, pensár, interrogar, definitivo, sindical, conjunto, decoración, estudiante, Tokio, bioinvestigación, concurrido, exteriorizar, Oriente, horas, abandonar, 
+
+
+Cluster 46
+Frequent terms: barcelona, decidió, la, generalitat, en, atrás, por, entre, subir, aprobó, 
+Words: manera, anunciado, cantidad, este, empezar, depositado, pasillo, destinado, mediodía, retrasar, si, televisor, cuarto, tímido, temer, preocupante, comer, entrada, conseguir, Dalt, motivar, caballo, laboral, pasado, jueves, conceder, dominico, merecido, cancelar, saga, director, gastar, elemento, aventura, desordenado, Bac, Quintí, repicar, Ponedors, Gispert, compromiso, Caixa, Vallcarca, época, trazar, venir, insumisión, Virginia, llamada, clandestinamente, censado, manifiesto, BBV, Ernest, Girona, sorprendente, obviamente, oxigenación, completar él, simbólico, infraestructura, Por, pilotar, humor, parlamento, recomendar, plazo, requerido, Honorat, Vilamacolum, marido, Tarradellas, 
+
+
+Cluster 47
+Frequent terms: congelados, barcelona, de, decidió, quedan, en, dar, subida, que, por, 
+Words: subir, sustitución, acabar, cuadro, nada, autobús, parque, levantar, Collblanc, desorden, feria, expansión, Albert, escena, plano, llegado, convocado, exclusión, martes, fundación, urbanismo, banalizar, María, secuencia, abonar, andar, Secretariat, emplear él, arriesgar, base, costar, concretar, fijar yo, 
+
+
+Cluster 48
+Frequent terms: barcelona, congelados, generalitat, suspender, las, vigor, embargo, iba, del, tarifas, 
+Words: cada, tensión, Viladecans, proyecto, Maresme, considerar él, especializado, aventurero, terminar, cruzar, Martí, Roda, fábrica, campana, apuntar, objeción, irregular, Mundo, fama, puntuación, vigilancia, urgencia, MAR, volcar, óptimo, genètica, genética, musulmán, sospechoso, limitar, despacho, 
+
+
+Cluster 49
+Frequent terms: barcelona, subida, sus, atrás, decidió, suspender, las, peajes, ayer, marcha, 
+Words: pagar, Gràcia, producto, mejorar, formar, competitivo, debate, decreciente, cambio, dónde, premisa, guiso, PUIG, arrollar, vivienda, taller, construir, discontinuo, adoptado, recogida, población, final, ampliación, expresamente, presidido, resto, Vilassar, Social, pensant, Pla, término, moro, extendido, habitado, Hipólito, Transport, Feliu, juguete, invierno, extracción, Enric, deseo, lábil, Entre, custodiar, 
+
+
+
+
